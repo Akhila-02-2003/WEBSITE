@@ -52,7 +52,14 @@ body{
     --common-padding-top-1: 12rem;
 
 }
-
+.section-4
+{
+    transition : all 0.3s
+}
+.section-4:hover
+{
+    transform:scale(1.1)
+}
 /*imp! COMMON CSS */
 
 .white-clr{
